@@ -6,7 +6,7 @@ public class APP {
 
     public static void main(String[] args) {
         Service s = new Service();
-        System.out.println("========= Product Management System ========");
+        System.out.println("========= Product Management System ");
         Scanner ip = new Scanner(System.in);
         System.out.println("Enter size of database:");
         int size = ip.nextInt();
